@@ -21,9 +21,17 @@ Cela peur être utile si vous ne devez travailler que sur une partie des donnée
 
 Aujourd’hui nous allons voir:
 
-1. Comment filtrer des lignes ou des colonnes dans un tableau
+1. Comment filtrer des lignes ou des colonnes dans un tableau  
 
-2. Exporter le nouveau tableau créé dans R
+2. Exporter le nouveau tableau créé dans R  
+
+3. Combiner une filtration de lignes avec un graphique  
+
+4. Ajouter ou modifier des colonnes  
+
+5. Concaténer ou séparer des colonnes  
+
+
 
 <br>
 
