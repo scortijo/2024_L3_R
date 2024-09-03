@@ -34,10 +34,10 @@ Les différentes séances sont (avec accès au cours):
 
 ### Séance 2 (14/10/2024 13h15-14h45, salle TD5.129): Réaliser des graphiques - partie 1
 
-[Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
+[Matériel réaliser des graphiques](session2_ggplot_1/materiel/ggplot_part1.html)  
 
 
-[Solution des exercices](session2_ggplot/materiel/ggplot_exercise_solutions.html)
+[Solution des exercices](session2_ggplot_1/materiel/ggplot_part1_exercise_solutions.html)
 
 <br>
 
