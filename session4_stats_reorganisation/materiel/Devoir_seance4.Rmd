@@ -1,0 +1,43 @@
+---
+title: "Devoir séance 4"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
+
+<br>
+
+Ceci est la partie correspondant à la séance 3 du contrôle continu qui combinera les exercices à faire entre les séances. Pour cela:
+
+
+- Reprenez le script R `Script_controle_continu1_numéro_étudiant.R` (avec votre votre propre numéro à la place de `numéro_étudiant`) que vous avez sauvé dans le devoir de la séance précédente.
+
+<br>
+
+<br>
+
+- Avec l'une des fonctions que nous avons vue dans la deuxième partie du cours, selectionnez toutes les colonnes de l'objet `nitrate_data` sauf la colonne `Nlevel`.
+
+<br>
+
+- Avec une autre fonction que nous avons vue dans la deuxième partie du cours, gardez uniquement les lignes de l'objet `nitrate_data` qui sont l'accession `Col-0`.
+
+<br>
+
+- **C'est fini. N'oubliez pas de sauver votre fichier. Le script contenant tous les exercices à faire pour les séances 1, 2 et 3 est la première moitié du contrôle continu et doit être déposé sur Moodle au plus tard le 7/11/2023 à minuit.**
+
+<br>
+
+
+
+

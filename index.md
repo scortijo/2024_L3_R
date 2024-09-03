@@ -34,20 +34,20 @@ Les différentes séances sont (avec accès au cours):
 
 ### Séance 2 (14/10/2024 13h15-14h45, salle TD5.129): Réaliser des graphiques - partie 1
 
-[Matériel réaliser des graphiques](session2_ggplot_1/materiel/ggplot_part1.html)  
-
-
-[Solution des exercices](session2_ggplot_1/materiel/ggplot_part1_exercise_solutions.html)
+[Matériel réaliser des graphiques - partie 1](session2_ggplot_1/materiel/ggplot_part1.html)  
+[Solution des exercices - partie 1](session2_ggplot_1/materiel/ggplot_part1_exercise_solutions.html)
 
 <br>
 
 ### Séance 3 (17/10/2024 13h15-16h30, salle TD5.129): Réaliser des graphiques - partie 2 ET Ajouter des résultats de tests statistiques à des graphiques et réorganiser des données
 
-[Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
+[Matériel réaliser des graphiques - suite](session3_ggplot_stats/materiel/ggplot_part2.html)  
+[Solution des exercices - suite](session3_ggplot_stats/materiel/ggplot_part2_exercise_solutions.html)
 
-[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_stats_reorganisation/materiel/statistiques.html)  
+<br>
 
-[Solution des exercices](session3_stats_reorganisation/materiel/statistiques_solution_exercices.html)  
+[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_ggplot_stats/materiel/statistiques.html)  
+[Solution des exercices](session3_ggplot_stats/materiel/statistiques_solution_exercices.html)  
 
 <br>
 
