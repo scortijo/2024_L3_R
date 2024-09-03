@@ -60,22 +60,17 @@ Les différentes séances sont (avec accès au cours):
 
 ### Séance 4 (24/10/2024 13h15-16h30, salle TD5.129): Réorganisation de données 
 
-[Partie 2 - Matériel réorganisation de données](session3_stats_reorganisation/materiel/reorganisation_donnees.html)  
+[Partie 2 - Matériel réorganisation de données](session4_reorganisation/materiel/reorganisation_donnees.html)  
 
-[Solution des exercices](session3_stats_reorganisation/materiel/reorganisation_donnees_solution_exercices.html)
+[Solution des exercices](session4_reorganisation/materiel/reorganisation_donnees_solution_exercices.html)
 
-
-
-[Matériel réorganisation de données - suite](session4_reorganisation_suite/materiel/reorganisation_suite.html)  
-
-[Solution des exercices](session4_reorganisation_suite/materiel/reorganisation_suite_solution_exercices.html)
 
 
 <br>
 
 ### Séance 5 (6/11/2024 13h15-16h30, salle TD5.129): Réorganisation avancée de données - partie 1
 
-[Matériel réorganisation de données - suite](session4_reorganisation_suite/materiel/reorganisation_suite.html)  
+[Matériel réorganisation de données - suite](session5_reorganisation_suite/materiel/reorganisation_donnees.html)  
 
 [Solution des exercices](session4_reorganisation_suite/materiel/reorganisation_suite_solution_exercices.html)
 
@@ -93,14 +88,14 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-[Matériel réorganisation de données avancée](session5_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+[Matériel réorganisation de données avancée](session6_reorganisation_avancee/materiel/reorganisation_avancee.html) 
 
 [Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
 
 
 
 
-[Matériel utilisation d'outils d'IA pour l'aide au codage](session5_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+[Matériel utilisation d'outils d'IA pour l'aide au codage](session6_reorganisation_avancee/materiel/reorganisation_avancee.html) 
 
 [Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
 
@@ -109,9 +104,9 @@ Les différentes séances sont (avec accès au cours):
 ### Séance 7 (25/11/2023 13h15-16h30, salle TD5.129): Exam blanc, Correction de l'exam blanc et trucs et astuces
 
 
-[Exam blanc](session6_exam_blanc/exam_blanc.html) 
+[Exam blanc](session7_exam_blanc/exam_blanc.html) 
 
-[Solution de l'exam blanc](session6_exam_blanc/exam_blanc_2023_solution.html)
+[Solution de l'exam blanc](session7_exam_blanc/exam_blanc_2023_solution.html)
 
 
 
@@ -142,11 +137,11 @@ Les différentes séances sont (avec accès au cours):
 
 **L'évaluation de cette matière va comporter:**
 
-**1. Un contrôle continu qui combine les exercices à faire entre les séances sur votre ordinateur personnel. Une première moitié du contrôle continu sera à déposer sur Moodle au plus tard le  23/10/2024 à minuit. La deuxième moitié sera à déposer sur Moodle au plus tard le 26/11/2023 à minuit.**
+**1. Un contrôle continu qui combine les exercices à faire entre les séances sur votre ordinateur personnel. Une première moitié du contrôle continu sera à déposer sur Moodle au plus tard le  23/10/2024 à minuit. La deuxième moitié sera à déposer sur Moodle au plus tard le 24/11/2024 à minuit.**
 
 
 
-**2. Un devoir en classe lors de la dernière séance**
+**2. Un devoir en classe lors de la dernière séance le 12/12/2023**
 
 <br>
 
