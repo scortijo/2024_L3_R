@@ -52,8 +52,6 @@ Les différentes séances sont (avec accès au cours):
 
 [Solution des exercices](session3_ggplot_stats/materiel/statistiques_solution_exercices.html)  
 
-<br>
-
 
 
 <br>
