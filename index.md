@@ -40,7 +40,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 3 (17/10/2024 13h15-16h30, salle TD5.129): Réaliser des graphiques - partie 2 ET Ajouter des résultats de tests statistiques à des graphiques et réorganiser des données
+### Séance 3 (17/10/2024 13h15-16h30, salle TD5.129): Réaliser des graphiques - partie 2 ET Ajouter des résultats de tests statistiques à des graphiques 
 
 [Matériel réaliser des graphiques - suite](session3_ggplot_stats/materiel/ggplot_part2.html)  
 
