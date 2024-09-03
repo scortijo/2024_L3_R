@@ -1,10 +1,10 @@
 **Où:** Salle TD5.129 
 
-**Quand:** Du 12 octobre 2023 au 7 décembre 2023
+**Quand:** Du 10 octobre 2024 au 12 décembre 2024
 
 **Instructeurs:** 
 [Sandra Cortijo](mailto:sandra.cortijo@cnrs.fr), 
-[Océane Cassan](mailto:Oceane.CASSAN@lirmm.fr)
+[Charlotte Lecuyer](mailto:charlotte.lecuyer@cnrs.fr)
 
 
 ## Description
@@ -18,7 +18,7 @@ Afin de pouvoir faire ce cours sur votre ordinateur, téléchargez le matériel 
 Les différentes séances sont (avec accès au cours):
 
 
-### Séance 1 (12/10/2023 13h15-16h30, salle TD5.129): Organisation des données et intro à **R**
+### Séance 1 (10/10/2024 13h15-16h30, salle TD5.129): Organisation des données et intro à **R**
 
 [Matériel organisation des données](session1_organisation/materiel/organisation_session.html)  
 
@@ -32,7 +32,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 2 (19/10/2023 13h15-16h30, salle TD5.129): Réaliser des graphiques
+### Séance 2 (14/10/2024 13h15-14h45, salle TD5.129): Réaliser des graphiques - partie 1
 
 [Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
 
@@ -41,21 +41,25 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 3 (26/10/2023 13h15-16h30, salle TD5.129): Ajouter des résultats de tests statistiques à des graphiques et réorganiser des données
+### Séance 3 (17/10/2024 13h15-16h30, salle TD5.129): Réaliser des graphiques - partie 2 ET Ajouter des résultats de tests statistiques à des graphiques et réorganiser des données
 
-[Partie 1 - Matériel ajouter des résultats de tests statistiques à des graphiques](session3_stats_reorganisation/materiel/statistiques.html)  
+[Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
+
+[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_stats_reorganisation/materiel/statistiques.html)  
 
 [Solution des exercices](session3_stats_reorganisation/materiel/statistiques_solution_exercices.html)  
 
 <br>
 
-[Partie 2 - Matériel réorganisation de données](session3_stats_reorganisation/materiel/reorganisation_donnees.html)  
 
-[Solution des exercices](session3_stats_reorganisation/materiel/reorganisation_donnees_solution_exercices.html)
 
 <br>
 
-### Séance 4 (8/11/2023 13h15-16h30, salle TD5.129): Réorganisation de données - suite
+### Séance 4 (24/10/2024 13h15-16h30, salle TD5.129): Réorganisation de données 
+
+[Partie 2 - Matériel réorganisation de données](session3_stats_reorganisation/materiel/reorganisation_donnees.html)  
+
+[Solution des exercices](session3_stats_reorganisation/materiel/reorganisation_donnees_solution_exercices.html)
 
 [Matériel réorganisation de données - suite](session4_reorganisation_suite/materiel/reorganisation_suite.html)  
 
@@ -64,7 +68,12 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 5 (13/11/2023 13h15-16h30, salle TD5.129): Réorganisation avancée de données
+### Séance 5 (6/11/2024 13h15-16h30, salle TD5.129): Réorganisation avancée de données - partie 1
+
+[Matériel réorganisation de données - suite](session4_reorganisation_suite/materiel/reorganisation_suite.html)  
+
+[Solution des exercices](session4_reorganisation_suite/materiel/reorganisation_suite_solution_exercices.html)
+
 
 
 [Matériel réorganisation de données avancée](session5_reorganisation_avancee/materiel/reorganisation_avancee.html) 
@@ -73,7 +82,26 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 6 (20/11/2023 13h15-16h30, salle TD5.129): Exam blanc, Correction de l'exam blanc et trucs et astuces
+
+
+### Séance 6 (18/11/2024 13h15-16h30, salle TD5.129): Réorganisation avancée de données - suite ET utilisation d'outils d'IA pour l'aide au codage
+
+
+
+[Matériel réorganisation de données avancée](session5_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+
+[Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
+
+
+
+
+[Matériel utilisation d'outils d'IA pour l'aide au codage](session5_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+
+[Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
+
+<br>
+
+### Séance 7 (25/11/2023 13h15-16h30, salle TD5.129): Exam blanc, Correction de l'exam blanc et trucs et astuces
 
 
 [Exam blanc](session6_exam_blanc/exam_blanc.html) 
@@ -83,7 +111,7 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-### Séance 7 (7/12/2023 9h45-11h15, salle TD5.129): Exam
+### Séance 8 (12/12/2023 9h45-11h15, salle TD5.129): Exam
 
 
 
@@ -126,12 +154,12 @@ Il est recommandé d'utiliser R régulièrement pour bien comprendre et apprendr
 
 Dans chaque cas, téléchargez la version pour votre système opérateur (Mac, Windows ou Linux) et installez les programmes normalement.
 
-Vous devez aussi avoir les packages `tidyverse`, `visdat` et `plotly` installés. 
+Vous devez aussi avoir les packages `tidyverse`, `visdat`, `ggpubr`, `RColorBrewer` et `plotly` installés. 
 Pour cela:
 1. Assurez vous d'avoir accès à internet
 2. Ouvrez Rstudio
-3. Dans la "console" (panel en haut à gauche), tapez `install.packages(c("tidyverse","visdat", "plotly"))` puis enter
-4. Assurez vous que l'installation a fonctionné en tapant `library(tidyverse)` (puis faites la même chose avec `visdat` et `plotly`)
+3. Dans la "console" (panel en haut à gauche), tapez `install.packages(c("tidyverse","visdat", "ggpubr", "RColorBrewer", "plotly"))` puis enter
+4. Assurez vous que l'installation a fonctionné en tapant `library(tidyverse)` (puis faites la même chose avec les autres packages)
 5. Le message affiché doit être similaire à la capture d'écran ci-dessous. Si vous avez un message du type: 
 "Error in library(tidyverse): there is no package called 'tidyverse'"
 **contactez un des instructeurs**.
