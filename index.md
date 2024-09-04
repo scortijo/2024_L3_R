@@ -1,4 +1,4 @@
-**Où:** Salle TD5.129 
+**Où:** Salles TD5.127 et TD5.130 
 
 **Quand:** Du 10 octobre 2024 au 12 décembre 2024
 
@@ -18,7 +18,7 @@ Afin de pouvoir faire ce cours sur votre ordinateur, téléchargez le matériel 
 Les différentes séances sont (avec accès au cours):
 
 
-### Séance 1 (10/10/2024 13h15-16h30, salle TD5.129): Organisation des données et intro à **R**
+### Séance 1 (Jeudi 10/10/2024 13h15-16h30, salle TD5.130): Organisation des données et intro à **R**
 
 [Matériel organisation des données](session1_organisation/materiel/organisation_session.html)  
 
@@ -32,21 +32,24 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 2 (14/10/2024 13h15-14h45, salle TD5.129): Réaliser des graphiques - partie 1
+### Séance 2 (Vendredi 18/10/2024 13h15-16h30, salle TD5.127): Réaliser des graphiques 
 
 [Matériel réaliser des graphiques - partie 1](session2_ggplot_1/materiel/ggplot_part1.html)  
 
 [Solution des exercices - partie 1](session2_ggplot_1/materiel/ggplot_part1_exercise_solutions.html)
 
-<br>
 
-### Séance 3 (17/10/2024 13h15-16h30, salle TD5.129): Réaliser des graphiques - partie 2 ET Ajouter des résultats de tests statistiques à des graphiques 
+
 
 [Matériel réaliser des graphiques - suite](session3_ggplot_stats/materiel/ggplot_part2.html)  
 
 [Solution des exercices - suite](session3_ggplot_stats/materiel/ggplot_part2_exercise_solutions.html)
 
+
 <br>
+
+### Séance 3 (Lundi 21/10/2024 13h15-14h45, salle TD5.130): Ajouter des résultats de tests statistiques à des graphiques 
+
 
 [Matériel ajouter des résultats de tests statistiques à des graphiques](session3_ggplot_stats/materiel/statistiques.html)  
 
@@ -56,7 +59,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 4 (24/10/2024 13h15-16h30, salle TD5.129): Réorganisation de données 
+### Séance 4 (Jeudi 24/10/2024 13h15-16h30, salle TD5.130): Réorganisation de données 
 
 [Partie 2 - Matériel réorganisation de données](session4_reorganisation/materiel/reorganisation_donnees.html)  
 
@@ -66,7 +69,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 5 (6/11/2024 13h15-16h30, salle TD5.129): Réorganisation avancée de données - partie 1
+### Séance 5 (Lundi 04/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données - partie 1
 
 [Matériel réorganisation de données - suite](session5_reorganisation_suite/materiel/reorganisation_donnees.html)  
 
@@ -82,7 +85,7 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-### Séance 6 (18/11/2024 13h15-16h30, salle TD5.129): Réorganisation avancée de données - suite ET utilisation d'outils d'IA pour l'aide au codage
+### Séance 6 (Vendredi 15/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données - suite ET utilisation d'outils d'IA pour l'aide au codage
 
 
 
@@ -99,7 +102,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 7 (25/11/2023 13h15-16h30, salle TD5.129): Exam blanc, Correction de l'exam blanc et trucs et astuces
+### Séance 7 (Lundi 18/11/2024 13h15-16h30, salle TD5.130): Exam blanc, Correction de l'exam blanc et trucs et astuces
 
 
 [Exam blanc](session7_exam_blanc/exam_blanc.html) 
@@ -109,7 +112,7 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-### Séance 8 (12/12/2023 9h45-11h15, salle TD5.129): Exam
+### Séance 8 (Jeudi 12/12/2023 9h45-11h15, salle TD5.130): Exam
 
 
 
@@ -135,7 +138,7 @@ Les différentes séances sont (avec accès au cours):
 
 **L'évaluation de cette matière va comporter:**
 
-**1. Un contrôle continu qui combine les exercices à faire entre les séances sur votre ordinateur personnel. Une première moitié du contrôle continu sera à déposer sur Moodle au plus tard le  23/10/2024 à minuit. La deuxième moitié sera à déposer sur Moodle au plus tard le 24/11/2024 à minuit.**
+**1. Un contrôle continu qui combine les exercices à faire entre les séances sur votre ordinateur personnel. Une première moitié du contrôle continu sera à déposer sur Moodle au plus tard le  03/11/2024 à minuit. La deuxième moitié sera à déposer sur Moodle au plus tard le 24/11/2024 à minuit.**
 
 
 
