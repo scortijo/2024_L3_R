@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-[Retour à la page d'accueil](https://scortijo.github.io/2023_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
 
 <br>
 
@@ -21,60 +21,10 @@ expt1 <- read_tsv("../data/burghardt_et_al_2015_expt1.txt")
 
 <br>
 
-******
-
-> **Exercice 1:** 
-> 
-> 1. Utilisez la fonction `pivot_longer()` pour restructurer le tableau afin de faire un boxplot de `blade.length.mm` et `total.leaf.length.mm`, coloré par  `fluctuation`.
-
-> 2. Ajoutez aux boxplots des encoches indiquant l'étendue de l'intervalle de confiance à 95% de la médiane (voir l'option `notch` dans `geom_boxplot`). Si les encoches sont étroite, il y a peu d'incertitude sur la médiane, si les encoches sont large, il y a une forte incertitude sur la médiane. Si les encoches de boxplots que nous comparons se chevauchent, alors nous ne pouvons pas conclure à une différence de médiane entre les médiane des deux groupes.  
-
-
-
-
-
-```{r}
-
-pivot_longer(expt1, names_to = "trait", values_to ="length.mm", 
-            cols = c(blade.length.mm, total.leaf.length.mm)) %>% 
-  ggplot(aes(x=trait, y=length.mm, color=fluctuation)) +
-  geom_boxplot(notch=TRUE)
-
-```
-
-<br>
-
-> 3. Interprétez le graphique: Y a t'il un effet de la fluctuation de température sur la longueur de blade ou de la feuille? Pourquoi?
-
-<br>
-Sur le graphique nous observons que les valeurs des boxplots pour les plantes ayant poussé en condition de température variable sont plus élevée que pour les plantes ayant pousser en condition de température stable. Pour les longueurs de blade et de la feuille, la médiane est plus élevée en condition de température variable, et les encoches sont petites, indiquant une forte certitude de la valeur de médiane, et ne se chevauchent pas entre les deux conditions indiquant une différence de médiane entre les deux conditions. 
-Ce graphique montre que les plantes poussant en condition de température variable ont une longueur de blade et une longueur totale de la feuille plus grande que en condition de température constante.
-
-<br>
-
-> **BONUS**
-> Optimisez le graphique obtenu en jouant sur le thème, les couleurs utilisée (visibles par des daltoniens), le titre et la valeur des axes et de la légende, de manière à avoir un graphique similaire au graphique suivant:
->
-
-
-```{r}
-
-pivot_longer(expt1, names_to = "trait", values_to ="length.mm", 
-            cols = c(blade.length.mm, total.leaf.length.mm)) %>% 
-  ggplot(aes(x=trait, y=length.mm, fill=fluctuation)) +
-  geom_boxplot(notch = TRUE) +
-  scale_fill_brewer(palette = "Set2", labels = c("Con"="Constant", "Var"="Variable"), 
-                    name="Fluctuation type") +
-  theme_bw() +
-  scale_x_discrete(name="",labels=c("blade.length.mm"="Blade","total.leaf.length.mm"="Total leaf")) +
-  ylab("Length (mm)")
-
-```
-
 
 ******
 
-> **Exercice 2:**
+> **Exercice 1:**
 >
 > Calculez la médiane et l'écart-type de `blade.length.mm` et `total.leaf.length.mm` pour chaque `genotype` au différentes `day.length`. Ajoutez aussi le nombre d'observations de chaque groupe 
 >
@@ -121,7 +71,7 @@ group_by(expt1, genotype, vernalization) %>%
 ******
 
 
-> **Exercice 3**
+> **Exercice 2**
 >
 > Faites un voilin plot de `total.leaf.length.mm` pour chaque génotype et ajoutez la médiane pour chaque groupe (avec un point coloré) ainsi que le nombre d'observation de chaque groupe
 >
@@ -150,7 +100,7 @@ group_by(expt1, genotype) %>%
 
 
 
-> **Exercice 4**
+> **Exercice 3**
 >
 > Représenter des violin plot de `cauline.leaf.num` pour les génotypes de `background` "Col", colorés par la température et ce uniquement pour les plantes sans fluctuation de température et qui sont en jours longs (16 h). 
 >

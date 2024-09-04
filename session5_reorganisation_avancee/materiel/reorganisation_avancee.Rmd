@@ -383,14 +383,6 @@ Ces fonctions peuvent être utiles pour comparer de gros jeux de données :
 
 <br>
 
-******
-  
-#   <span style="color: blue;">Contrôle continu à faire pour la prochaine séance </span>
-
-#### A partir ce ce que nous avons vu aujourd'hui:
-
-#### - Commencez la deuxième moitié du contrôle continu dont les instructions sont [ici](Devoir_seance5.html)
-
 
 ******
 
