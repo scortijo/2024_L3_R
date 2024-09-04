@@ -63,27 +63,23 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 5 (Lundi 04/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données - Suite
+### Séance 5 (Lundi 04/11/2024 13h15-16h30, salle TD5.130): Réorganisation de données avancées
 
-[Matériel réorganisation de données - suite](session5_reorganisation_suite/materiel/reorganisation_donnees.html)  
-
-[Solution des exercices](session4_reorganisation_suite/materiel/reorganisation_suite_solution_exercices.html)
-
-
-
-[Matériel réorganisation de données avancée](session5_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+[Matériel réorganisation avancée de données ](session5_reorganisation_avancee/materiel/reorganisation_avancee.html)  
 
 [Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
+
+
 
 <br>
 
 
 
-### Séance 6 (Vendredi 15/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données  ET utilisation d'outils d'IA pour l'aide au codage
+### Séance 6 (Vendredi 15/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données (suite)  ET utilisation d'outils d'IA pour l'aide au codage
 
 
 
-[Matériel réorganisation de données avancée](session6_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+[Matériel réorganisation de données avancée (suite)](session6_reorganisation_avancee/materiel/reorganisation_avancee.html) 
 
 [Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
 

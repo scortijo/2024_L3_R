@@ -29,7 +29,6 @@ Aujourd’hui nous allons voir:
 
 4. Ajouter ou modifier des colonnes  
 
-5. Concaténer ou séparer des colonnes  
 
 
 
@@ -346,77 +345,6 @@ colnames(expt1.cm)
 
 
 
-
-<br>
-
-
-# Concaténer ou séparer des colonnes avec `unite()` et `separate()`
-
-<br>
-
-Pour concaténer deux ou plusieurs colonnes ensemble, utilisez la fonction `unite()`. Par exemple, pour concaténer `vernalization`, `survival.bolt` et `bolt`:
-
-
-```{r}
-# Créez deux nouvelles colonnes
-expt1.concatenated <- unite(expt1, "Vern_survival_bolt",vernalization,bolt.survival,bolt)
-
-# Vérifier que la nouvelles colonnes sont bien là
-colnames(expt1.concatenated)
-```
-
-
-
-A contrario, pour séparer une colonne en deux ou plusieurs colonnes, utilisez la fonction `separate()`. Par exemple, pour séparer la colonne `barkground` :
-
-
-```{r warning=FALSE}
-# Créez deux nouvelles colonnes
-expt1.separated <- separate(expt1, background, into=c("genotype_background", "FRI_mutation"))
-
-# Vérifier que la nouvelles colonnes sont bien là
-colnames(expt1.separated)
-```
-
-
-<br>
-
--------
-
-
-> **Exercice 6:** 
-> 
-> Reproduisez cette figure de [Burghard et al 2015](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.13799)
-> 
-> ![](images/Burghard_2015_figS8_a.png)
-> 
-> 
-> Aide: 
-> 
-> - Créez une nouvelle colonne (blade.ratio) avec le ratio de `blade.length.mm` et `total.leaf.length.mm`
-> 
-> - Créez une nouvelle colonne (nommée par exemple `condition`) en concaténant `day.length`, `temperature` et `fluctuation`
-> 
-> - Sélectionnez les background  `Col ` et `Ler`
-> 
-> - Faites un boxplot du ratio de `blade.length.mm` et `total.leaf.length.mm` en fonction de la `condition`, en créant des facets en fonction du background
-> 
-> - Pas besoin de mettre de la couleur qui n'apporte rien au graphique
->
-> - N'essayez pas de reproduire l'ordre des conditions (sur l'axe x). Nous verrons comment le faire à la prochaine séance
-
->
-> **BONUS**: Ce bonus vous permettra d'avoir des valeurs de x plus proches du graphique
->
-> - Avant de créer la nouvelle colonne en concaténant `day.length`, `temperature` et `fluctuation`, créer une colonne `LD.SD` dans laquelle vous aurez "LD" à la place de la valeur "16" de la colonne `day.length`, et "SD" à la place de la valeur "8" de la colonne `day.length`. Utilisez ensuite cette colonne `LD.SD` pour la concaténation avec `temperature` et `fluctuation` pour créer la colonne  `condition`
-> - Changez le thème du graphique pour enlever la grille et avoir un fond blanc.
-
-<br>
-
-<br>
-
-
-<br>
 
 ## Ressources et liens utiles:
 
