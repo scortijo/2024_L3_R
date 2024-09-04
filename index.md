@@ -34,16 +34,10 @@ Les différentes séances sont (avec accès au cours):
 
 ### Séance 2 (Vendredi 18/10/2024 13h15-16h30, salle TD5.127): Réaliser des graphiques 
 
-[Matériel réaliser des graphiques - partie 1](session2_ggplot_1/materiel/ggplot_part1.html)  
+[Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
 
-[Solution des exercices - partie 1](session2_ggplot_1/materiel/ggplot_part1_exercise_solutions.html)
+[Solution des exercices](session2_ggplot/materiel/ggplot_exercise_solutions.html)
 
-
-
-
-[Matériel réaliser des graphiques - suite](session3_ggplot_stats/materiel/ggplot_part2.html)  
-
-[Solution des exercices - suite](session3_ggplot_stats/materiel/ggplot_part2_exercise_solutions.html)
 
 
 <br>
@@ -51,9 +45,9 @@ Les différentes séances sont (avec accès au cours):
 ### Séance 3 (Lundi 21/10/2024 13h15-14h45, salle TD5.130): Ajouter des résultats de tests statistiques à des graphiques 
 
 
-[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_ggplot_stats/materiel/statistiques.html)  
+[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_stats/materiel/statistiques.html)  
 
-[Solution des exercices](session3_ggplot_stats/materiel/statistiques_solution_exercices.html)  
+[Solution des exercices](session3_stats/materiel/statistiques_solution_exercices.html)  
 
 
 
@@ -69,7 +63,7 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-### Séance 5 (Lundi 04/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données - partie 1
+### Séance 5 (Lundi 04/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données - Suite
 
 [Matériel réorganisation de données - suite](session5_reorganisation_suite/materiel/reorganisation_donnees.html)  
 
@@ -85,7 +79,7 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-### Séance 6 (Vendredi 15/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données - suite ET utilisation d'outils d'IA pour l'aide au codage
+### Séance 6 (Vendredi 15/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données  ET utilisation d'outils d'IA pour l'aide au codage
 
 
 
