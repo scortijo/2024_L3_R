@@ -79,25 +79,22 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-[Matériel réorganisation de données avancée (suite)](session6_reorganisation_avancee/materiel/reorganisation_avancee.html) 
+[Matériel réorganisation de données avancée (suite)](session6_reorganisation_suite_IA/materiel/reorganisation_avancee_suite.html) 
 
-[Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
+[Solution des exercices](session6_reorganisation_suite_IA/materiel/reorganisation_avancee_suite_solution_exercices.html)
 
-
-
-
-[Matériel utilisation d'outils d'IA pour l'aide au codage](session6_reorganisation_avancee/materiel/reorganisation_avancee.html) 
-
-[Solution des exercices](session5_reorganisation_avancee/materiel/reorganisation_avancee_solution_exercices.html)
 
 <br>
 
+
+[Matériel utilisation d'outils d'IA pour l'aide au codage](session6_reorganisation_suite_IA/materiel/aide_IA_codage.html) 
+
+
+<br>
+
+
 ### Séance 7 (Lundi 18/11/2024 13h15-16h30, salle TD5.130): Exam blanc, Correction de l'exam blanc et trucs et astuces
 
-
-[Exam blanc](session7_exam_blanc/exam_blanc.html) 
-
-[Solution de l'exam blanc](session7_exam_blanc/exam_blanc_2023_solution.html)
 
 
 
