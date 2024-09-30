@@ -18,7 +18,7 @@ Afin de pouvoir faire ce cours sur votre ordinateur, téléchargez le matériel 
 Les différentes séances sont (avec accès au cours):
 
 
-### Séance 1 (Jeudi 10/10/2024 13h15-16h30, salle TD5.130): Organisation des données et intro à **R**
+### Séance 1 (Lunei 07/10/2024 xxx-xx, salle TDxxx): Organisation des données 
 
 [Matériel organisation des données](session1_organisation/materiel/organisation_session.html)  
 
@@ -26,28 +26,34 @@ Les différentes séances sont (avec accès au cours):
 
 <br>
 
-[Matériel intro à R](session1_organisation/materiel/intro_R.html)  
 
-[Solution des exercices](session1_organisation/materiel/intro_R_solution_exercices)
-
-<br>
-
-### Séance 2 (Vendredi 18/10/2024 13h15-16h30, salle TD5.127): Réaliser des graphiques 
-
-[Matériel réaliser des graphiques](session2_ggplot/materiel/ggplot_session.html)  
-
-[Solution des exercices](session2_ggplot/materiel/ggplot_exercise_solutions.html)
+### Séance 2 (Jeudi 10/10/2024 13h15-16h30, salle TD5.130): Intro à **R** et réaliser des graphiques (partie 1)
 
 
+[Matériel intro à R](session2_intro_ggplot/materiel/intro_R.html)  
+
+[Solution des exercices](session2_intro_ggplot/materiel/intro_R_solution_exercices)
 
 <br>
 
-### Séance 3 (Lundi 21/10/2024 13h15-14h45, salle TD5.130): Ajouter des résultats de tests statistiques à des graphiques 
+[Matériel réaliser des graphiques](session2_intro_ggplot/materiel/ggplot_session.html)  
+
+[Solution des exercices](session2_intro_ggplot/materiel/ggplot_exercise_solutions.html)
+
+<br>
 
 
-[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_stats/materiel/statistiques.html)  
+### Séance 3 (Vendredi 18/10/2024 13h15-16h30, salle TD5.127): Réaliser des graphiques (partie 2) et ajout des résultats de tests statistiques
 
-[Solution des exercices](session3_stats/materiel/statistiques_solution_exercices.html)  
+[Matériel réaliser des graphiques](session3_plots_stats/materiel/ggplot_session.html)  
+
+[Solution des exercices](session3_plots_stats/materiel/ggplot_exercise_solutions.html)
+
+<br>
+
+[Matériel ajouter des résultats de tests statistiques à des graphiques](session3_plots_stats/materiel/statistiques.html)  
+
+[Solution des exercices](session3_plots_stats/materiel/statistiques_solution_exercices.html)  
 
 
 
