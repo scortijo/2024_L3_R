@@ -18,7 +18,7 @@ Afin de pouvoir faire ce cours sur votre ordinateur, téléchargez le matériel 
 Les différentes séances sont (avec accès au cours):
 
 
-### Séance 1 (Lunei 07/10/2024 xxx-xx, salle TDxxx): Organisation des données 
+### Séance 1 (Lundi 07/10/2024 xxx-xx, salle TDxxx): Organisation des données 
 
 [Matériel organisation des données](session1_organisation/materiel/organisation_session.html)  
 
@@ -105,7 +105,7 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-### Séance 8 (Jeudi 12/12/2023 9h45-11h15, salle TD5.130): Exam
+### Séance 8 (Jeudi 12/12/2024 9h45-11h15, salle TD5.130): Exam
 
 
 
@@ -135,7 +135,7 @@ Les différentes séances sont (avec accès au cours):
 
 
 
-**2. Un devoir en classe lors de la dernière séance le 12/12/2023**
+**2. Un devoir en classe lors de la dernière séance le 12/12/2024**
 
 <br>
 

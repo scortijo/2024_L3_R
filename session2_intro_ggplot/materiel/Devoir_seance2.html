@@ -11,7 +11,7 @@
 
 
 
-<title>Devoir séance 2</title>
+<title>Devoir_séance1</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -1477,37 +1477,57 @@ border-radius: 0px;
 
 
 
-<h1 class="title toc-ignore">Devoir séance 2</h1>
+<h1 class="title toc-ignore">Devoir_séance1</h1>
 
 </div>
 
 
 <p><a href="https://scortijo.github.io/2024_L3_R/">Retour à la page
 d’accueil</a></p>
+<p>Ceci est le début du contrôle continu qui combinera les exercices à
+faire entre les séances.</p>
+<p><strong>!Attention! Vous devez tout d’abord installer R et R studio
+en utilisant les instructions sur <a href="https://scortijo.github.io/2024_L3_R/">la page
+d’accueil</a></strong></p>
 <p><br></p>
-<p>Ceci est la partie correspondant à la séance 2 du contrôle continu
-qui combinera les exercices à faire entre les séances. Pour cela:</p>
+<p>Une fois R et R studio installés, voici la première partie du
+contrôle continu:</p>
 <p><br></p>
 <ul>
-<li>Reprenez le script R
-<code>Script_controle_continu1_numéro_étudiant.R</code> (avec votre
-votre propre numéro à la place de <code>numéro_étudiant</code>) que vous
-avez créé dans le devoir de la séance précédente.</li>
+<li>Créez un nouveau script R que vous sauvez immediatement sous le nom
+de <code>Script_controle_continu1_numéro_étudiant.R</code> en remplaçant
+<code>numéro_étudiant</code> par votre propre numéro.</li>
 </ul>
 <p><br></p>
 <ul>
-<li>En utilisant une ou plusieurs fonctions vues lors de la deuxième
-séance, déterminez le nombre de lignes et de colonnes de votre objet
-<code>nitrate_data</code> contenant les données du tableau
-<code>Cheng_2021_Arabidopsis_N.txt</code>.</li>
+<li>Chargez le package <code>tidyverse</code>(en utilisant
+<code>library()</code>)</li>
 </ul>
 <p><br></p>
 <ul>
-<li>Effectuez un boxplot du poids des plantes (<code>DryWeight_g</code>,
-axe y), en fonction de l’<code>Accession</code> (axe x), avec
-l’intérieur des boxplot colorés en fonction de du type de traitement
-d’azote (Nlevel`).</li>
+<li>Définissez votre répertoire de travail dans le dossier
+<code>session1_organisations</code> (en utilisant
+<code>setwd()</code>)</li>
 </ul>
+<p><br></p>
+<ul>
+<li>Importez le tableau <code>Cheng_2021_Arabidopsis_N.txt</code> en
+utilisant la bonne fonction et gardez le dans l’objet
+<code>nitrate_data</code>.</li>
+</ul>
+<p><em>Aide: le fichier est au format <code>.txt</code> avec les
+colonnes séparées par une tabulation.</em></p>
+<p><br></p>
+<p>Vous pouvez trouver plus d’information sur le jeu de données dans cet
+article de <a href="https://www.nature.com/articles/s41467-021-25893-w#MOESM4">Cheng
+et al., 2021</a>. Dans le fichier la colonne <code>Accession</code>
+contient le nom des accessions d’Arabidopsis utilisées. La colonne
+<code>Nlevel</code> indique si les plantes ont été traitées avec une
+faible ou forte concentration en azote. La concentration exacte d’azote
+utilisée (en mg) est indiquée dans la colonne <code>AppliedN_mg</code>.
+La colonne <code>DryWeight_g</code> indique le poids des plantes séchées
+à la fin de l’expérience. Trois répliquas ont été effectués pour chaque
+traitement sur chaque accession</p>
 <p><br></p>
 <ul>
 <li><strong>C’est fini. N’oubliez pas de sauver votre fichier que vous
