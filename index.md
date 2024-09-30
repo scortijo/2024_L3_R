@@ -18,7 +18,7 @@ Afin de pouvoir faire ce cours sur votre ordinateur, téléchargez le matériel 
 Les différentes séances sont (avec accès au cours):
 
 
-### Séance 1 (Lundi 07/10/2024 xxx-xx, salle TDxxx): Organisation des données 
+### Séance 1 (Lundi 07/10/2024 13h15-14h45, salle TD5.130): Organisation des données 
 
 [Matériel organisation des données](session1_organisation/materiel/organisation_session.html)  
 
