@@ -80,8 +80,9 @@ Les différentes séances sont (avec accès au cours):
 <br>
 
 
+###   <span style="color: red;"> Attention, la séance du 15 novembre est déplacée au 20 novembre ! </span>
 
-### Séance 6 (Vendredi 15/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données (suite)  ET utilisation d'outils d'IA pour l'aide au codage
+### Séance 6 (Lundi 18/11/2024 13h15-16h30, salle TD5.130): Réorganisation avancée de données (suite)  ET utilisation d'outils d'IA pour l'aide au codage
 
 
 
@@ -99,7 +100,7 @@ Les différentes séances sont (avec accès au cours):
 <br>
 
 
-### Séance 7 (Lundi 18/11/2024 13h15-16h30, salle TD5.130): Exam blanc, Correction de l'exam blanc et trucs et astuces
+### Séance 7 (Mercredi 20/11/2024 13h15-16h30, <span style="color: red;"> Bibliothèque à l'IPSiM </span> ): Exam blanc, Correction de l'exam blanc et trucs et astuces
 
 
 
