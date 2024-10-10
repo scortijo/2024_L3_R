@@ -172,7 +172,7 @@ vis_dat(expt1)
 ```
 
 > Quel est le type de données le plus courant dans le jeu de données ? 
-Y a-t-il des problème?
+Y a-t-il des problèmes?
 
 
 ## Données manquantes
