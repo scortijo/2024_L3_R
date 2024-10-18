@@ -1,5 +1,5 @@
 ---
-title: "Devoir_séance1"
+title: "Devoir séance 2"
 output:
   html_document:
     toc: yes
