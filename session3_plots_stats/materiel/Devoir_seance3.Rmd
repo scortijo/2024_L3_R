@@ -1,5 +1,5 @@
 ---
-title: "Devoir séance 2"
+title: "Devoir séance 3"
 output:
   html_document:
     toc: yes
@@ -49,7 +49,7 @@ Formulez une interprétation à propos de l'effet du la concentration en azote s
 <br>
 
 
-- **C'est fini. N'oubliez pas de sauver votre fichier. Le script contenant tous les exercices à faire pour les séances 2 et 3 est la première moitié du contrôle continu et doit être déposé sur Moodle au plus tard le 03/11/2024 à minuit.**
+- **C'est fini. N'oubliez pas de sauver votre fichier. Le script contenant tous les exercices à faire après les séances 2 et 3 est la première moitié du contrôle continu et doit être déposé sur Moodle au plus tard le 03/11/2024 à minuit.**
 
 
 <br>
