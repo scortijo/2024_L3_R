@@ -12,7 +12,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Retour à la page d'accueil](https://scortijo.github.io/2023_L3_R/)
+[Retour à la page d'accueil](https://scortijo.github.io/2024_L3_R/)
 
 <br>
 
