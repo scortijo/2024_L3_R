@@ -126,13 +126,17 @@ Les différentes séances sont (avec accès au cours):
 
 [Antisèches](https://www.rstudio.com/resources/cheatsheets/)
 
+[Liste de liens utiles et trucs & astuces](astuces.html)
+
+
+
 <br>
 
 ## Modalités d'évaluation
 
 **L'évaluation de cette matière va comporter:**
 
-**1. Un contrôle continu qui combine les exercices à faire entre les séances sur votre ordinateur personnel. Une première moitié du contrôle continu sera à déposer sur Moodle au plus tard le  03/11/2024 à minuit. La deuxième moitié sera à déposer sur Moodle au plus tard le 24/11/2024 à minuit.**
+**1. Un contrôle continu qui combine les exercices à faire entre les séances sur votre ordinateur personnel. Une première moitié du contrôle continu sera à déposer sur Moodle au plus tard le  03/11/2024 à minuit. La deuxième moitié sera à déposer sur Moodle au plus tard le 01/12/2024 à minuit.**
 
 
 
